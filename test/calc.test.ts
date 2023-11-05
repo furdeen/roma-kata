@@ -1,4 +1,4 @@
-/* more tests ai want to adds are */
+/* more tests needs want to adds are */
 // 1. test for invalid input
 // 2. test for input that is not a number
 // 3. test for input that is not a string
